@@ -10,8 +10,8 @@
     }
   ],
   "violation_found": false,
-  "extra": {
+  "extra": [{
     "count": 38,
     "itemId": 1
-  }
+  }]
 }
