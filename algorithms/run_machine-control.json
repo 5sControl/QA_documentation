@@ -1,0 +1,23 @@
+{
+  "camera_url": "rtsp://192.168.1.167/h264_stream",
+  "algorithm": "machine_control",
+  "server_url": "http://192.168.1.110",
+  "extra": [
+    {
+      "coords": [{
+        "x1": 123,
+        "x2": 232,
+        "y1": 213,
+        "y2": 232
+      }]
+    },
+    {
+      "coords": [{
+        "x1": 333,
+        "x2": 444,
+        "y1": 111,
+        "y2": 232
+      }]
+    }
+  ]
+}
