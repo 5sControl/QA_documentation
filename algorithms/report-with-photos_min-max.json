@@ -17,15 +17,33 @@
       "zoneName": "zone 51",
       "items": [
         {"low_stock_level": false,
-          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg"
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+          "itemId": 1,
+          "count": 22
+        },
+        {"low_stock_level": false,
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+          "itemId": 2,
+          "count": 11
         }
       ]
     },
     {
-      "count": 12,
+      "count": 38,
       "zoneId": 52,
-      "image_item": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
-      "low_stock_level": true
+      "zoneName": "zone 52",
+      "items": [
+        {"low_stock_level": false,
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+          "itemId": 1,
+          "count": 22
+        },
+        {"low_stock_level": false,
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+          "itemId": 2,
+          "count": 11
+        }
+      ]
     }
   ]
 }
