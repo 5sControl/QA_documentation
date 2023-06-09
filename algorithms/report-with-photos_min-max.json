@@ -13,13 +13,17 @@
   "extra": [
     {
       "count": 38,
-      "itemId": 1,
-      "image_item": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
-      "low_stock_level": false
+      "zoneId": 51,
+      "zoneName": "zone 51",
+      "items": [
+        {"low_stock_level": false,
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg"
+        }
+      ]
     },
     {
       "count": 12,
-      "itemId": 2,
+      "zoneId": 52,
       "image_item": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
       "low_stock_level": true
     }
