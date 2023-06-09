@@ -2,7 +2,7 @@
   "camera_url": "rtsp://192.168.1.167/h264_stream",
   "algorithm": "machine_control",
   "server_url": "http://192.168.1.110",
-  "zones": [
+  "extra": [
     {
       "coords": [{
         "x1": 123,
