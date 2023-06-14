@@ -1,27 +1,29 @@
 {
-  "camera_url": "rtsp://admin:just4Taqtile@192.168.1.168/h264_stream",
   "algorithm": "machine_control",
-  "server_url": "http://192.168.1.110",
+  "camera": "192.168.1.167",
+  "start_tracking": "2023-03-23 09:08:45.5",
+  "stop_tracking": "2023-03-23 09:09:45.5",
+  "photos": [
+    {
+      "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+      "date": "2023-03-23 09:09:45.5"
+    }
+  ],
+  "violation_found": false,
   "extra": [
     {
-      "coords": [
-        {
-          "x1": 909.7038724373576,
-          "x2": 1373.3029612756263,
-          "y1": 172.27249849246232,
-          "y2": 960.6624482412061,
-          "zoneId": 5,
-          "zoneName": "zone zone1"
-        },
-        {
-          "x1": 909.7038724373576,
-          "x2": 1373.3029612756263,
-          "y1": 172.27249849246232,
-          "y2": 960.6624482412061,
-          "zoneId": 6,
-          "zoneName": "zone zone2"
-        }
-      ]
+      "count": 38,
+      "zoneId": 51,
+      "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+      "zoneName": "zone 51",
+      "violation_found": false
+    },
+    {
+      "count": 38,
+      "zoneId": 52,
+      "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
+      "zoneName": "zone 52",
+      "violation_found": false
     }
   ]
 }
