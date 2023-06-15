@@ -1,24 +1,24 @@
 {
-  "algorithm": "min_max_control",
   "camera": "192.168.1.167",
+  "algorithm": "min_max_control",
   "start_tracking": "2023-03-23 09:08:45.5",
   "stop_tracking": "2023-03-23 09:09:45.5",
-  "photos": [],
-  "violation_found": false,
+  "photos": {'date': '2023-06-15 11: 24: 58.294682'},
+  "violation_found": False,
   "extra": [
     {
-      "zoneId": "None",
-      "zoneName": "None",
+      "zoneId": None,
+      "zoneName": None,
       "items": [
-        {"low_stock_level": false,
+        { "itemId": 1,
+          "count": 22,
           "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
-          "itemId": 1,
-          "count": 22
+          "low_stock_level": False
         },
-        {"low_stock_level": false,
-          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
-          "itemId": 2,
-          "count": 11
+        { "itemId": 2,
+          "count": 22,
+          "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd458b5.jpeg",
+          "low_stock_level": False
         }
       ]
     }
