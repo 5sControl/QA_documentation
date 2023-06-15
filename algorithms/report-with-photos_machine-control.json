@@ -23,6 +23,7 @@
   ],
   "violation_found": true,
   "extra": {
-    "zoneId": 54
+    "zoneId": 54,
+    "zoneName": "zone1"
   }
 }
