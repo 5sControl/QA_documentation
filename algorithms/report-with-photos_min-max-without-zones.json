@@ -7,8 +7,8 @@
   "violation_found": false,
   "extra": [
     {
-      "zoneId": null,
-      "zoneName": null,
+      "zoneId": "None",
+      "zoneName": "None",
       "items": [
         {"low_stock_level": false,
           "image": "images/192.168.1.167/ebb7057f-529e-4f47-a739-a61f0cd058b5.jpeg",
