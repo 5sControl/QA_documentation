@@ -11,17 +11,26 @@
       "config": {
         "zonesID": [
           {
-            "id": 1
+            "id": 0
           },
           {
-            "id": 2
+            "id": 0
           }
         ]
       }
     },
     {
-      "name": "idle_control",
-      "config": {}
+      "name": "algo-name",
+      "config": {
+        "zonesID": [
+          {
+            "id": 0
+          },
+          {
+            "id": 0
+          }
+        ]
+      }
     }
   ]
 }
