@@ -1,0 +1,27 @@
+{
+  "camera": {
+    "ip": "ip",
+    "name": "name",
+    "username": "camera-username",
+    "password": "camera-password"
+  },
+  "algorithms": [
+    {
+      "name": "algo-name",
+      "config": {
+        "zonesID": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "idle_control",
+      "config": {}
+    }
+  ]
+}
