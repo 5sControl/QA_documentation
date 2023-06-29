@@ -8,6 +8,7 @@
         {
           "itemId": 5,
           "itemName": "Post666777",
+          "multiRow": true,
           "coords": [
             {
               "x1": 533.6058685121106,
@@ -20,6 +21,7 @@
         {
           "itemId": 3,
           "itemName": "ttt",
+          "multiRow": false,
           "coords": [
             {
               "x1": 507.49035789473686,
@@ -32,6 +34,7 @@
         {
           "itemId": 1,
           "itemName": "white boxs",
+          "multiRow": true,
           "coords": [
             {
               "x1": 482.0774638180565,
@@ -50,6 +53,7 @@
         {
           "itemId": 4,
           "itemName": "Postavka2",
+          "multiRow": false,
           "coords": [
             {
               "x1": 526.1064645072364,
@@ -62,6 +66,7 @@
         {
           "itemId": 2,
           "itemName": "dfasdad",
+          "multiRow": true,
           "coords": [
             {
               "x1": 483.2377263157895,
