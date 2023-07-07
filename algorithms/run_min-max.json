@@ -2,7 +2,6 @@
   "camera_url": "rtsp://192.168.1.167/h264_stream",
   "algorithm": "min_max_control",
   "server_url": "http://192.168.1.110",
-  "task": "boxes",
   "extra": [
     {
       "areas": [
@@ -10,6 +9,7 @@
           "itemId": 5,
           "itemName": "Post666777",
           "multiRow": true,
+          "task": "boxes",
           "coords": [
             {
               "x1": 533.6058685121106,
@@ -23,6 +23,7 @@
           "itemId": 3,
           "itemName": "ttt",
           "multiRow": false,
+          "task": "bottles",
           "coords": [
             {
               "x1": 507.49035789473686,
@@ -36,6 +37,7 @@
           "itemId": 1,
           "itemName": "white boxs",
           "multiRow": true,
+          "task": "boxes",
           "coords": [
             {
               "x1": 482.0774638180565,
@@ -55,6 +57,7 @@
           "itemId": 4,
           "itemName": "Postavka2",
           "multiRow": false,
+          "task": "bottles",
           "coords": [
             {
               "x1": 526.1064645072364,
@@ -68,6 +71,7 @@
           "itemId": 2,
           "itemName": "dfasdad",
           "multiRow": true,
+          "task": "bottles",
           "coords": [
             {
               "x1": 483.2377263157895,
@@ -82,6 +86,8 @@
         {
           "zoneId": 4,
           "zoneName": "zone1",
+          "multiRow": false,
+          "task": "boxes",
           "coords": [
             {
               "x1": 553.257403189066,
