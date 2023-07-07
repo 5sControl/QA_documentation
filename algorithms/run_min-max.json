@@ -10,6 +10,7 @@
           "itemName": "Post666777",
           "multiRow": true,
           "task": "boxes",
+          "LowStockLevel": 33,
           "coords": [
             {
               "x1": 533.6058685121106,
@@ -24,6 +25,7 @@
           "itemName": "ttt",
           "multiRow": false,
           "task": "bottles",
+          "LowStockLevel": 3,
           "coords": [
             {
               "x1": 507.49035789473686,
@@ -38,6 +40,7 @@
           "itemName": "white boxs",
           "multiRow": true,
           "task": "boxes",
+          "LowStockLevel": 65,
           "coords": [
             {
               "x1": 482.0774638180565,
@@ -58,6 +61,7 @@
           "itemName": "Postavka2",
           "multiRow": false,
           "task": "bottles",
+          "LowStockLevel": 3,
           "coords": [
             {
               "x1": 526.1064645072364,
@@ -72,6 +76,7 @@
           "itemName": "dfasdad",
           "multiRow": true,
           "task": "bottles",
+          "LowStockLevel": 5,
           "coords": [
             {
               "x1": 483.2377263157895,
